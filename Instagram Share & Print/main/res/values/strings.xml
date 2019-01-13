@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Insta Share &amp; Print</string>
+    <string name="splash">INSTAGRAM SHARE &amp; PRINT</string>
+
+    <string name="how_to_use">
+        "&lt;br>&lt;b>&lt;u>FOR PUBLIC ACCOUNT.&lt;/u>&lt;/b>&lt;/br>"
+
+        "&lt;br>&lt;br>1.Tap on Open Instagram Button from top App Bar."
+        "&lt;br>&lt;br>2.Choose any image OR Video that you want to download on your smartphone then tap on three vertical dots."
+        "&lt;br>&lt;br>3.Choose Copy Share URL option."
+        "&lt;br>&lt;br>4.Now open this app and click on Paste Button."
+        "&lt;br>&lt;br>5.Click on Load Url Button."
+        "&lt;br>&lt;br>6.Cong&#8230;Its done !!!"
+
+        "&lt;br>&lt;br>&lt;b>&lt;br>&lt;u>FOR PRIVATE ACCOUNT.&lt;/u>&lt;/b>&lt;/br>"
+
+        "&lt;br>&lt;br>1.Open Instagram.com in your browser(PC) and log in to your account using Facebook Sign In or using your account credentials."
+        "&lt;br>&lt;br>2.Search for the person you want to download pictures. Make sure that you are his/her follower."
+        "&lt;br>&lt;br>3.After getting into their profile, Click on the picture OR Video you want to download. "
+        "&lt;br>&lt;br>4.After clicking on the picture/Video, the picture pops out into a frame. Now place your mouse on the picture and right-click on it. Select the option Inspect."
+        "&lt;br>&lt;br>5.Press ctrl+F and enter jpg or mp4 for image or video url respectively. Hit enter Button from keyboard."
+        "&lt;br>&lt;br>6.Copy the link."
+        "&lt;br>&lt;br>7.Now open this app and click on Paste Button."
+        "&lt;br>&lt;br>8.Click on Load Url Button."
+        "&lt;br>&lt;br>9.Cong&#8230; Its done !!!"
+
+        "&lt;br>&lt;br>&lt;br>&lt;b>&lt;u>Disclaimer :-&lt;/u>&lt;br>Plaese don't use app's feature without consent of your followers. Developer \@vikash isn't responsible for your action&lt;/b>"
+
+
+
+    </string>
+</resources>
