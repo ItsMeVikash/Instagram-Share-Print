@@ -46,7 +46,8 @@ How to Code:-
       <a class="github-button" href="https://github.com/bumptech/glide" data-size="large" aria-label="Download ntkme/github-buttons on GitHub">Glide Github</a>
 5. For Loading video from url get Url connection
 
- `try {
+```
+try {
      	URL myUrl = new URL(url);
       	URLConnection connection = myUrl.openConnection();      
       	is = connection.getInputStream();
@@ -59,16 +60,19 @@ How to Code:-
         fos.close();
     }catch(Exception e) {
       //Log.e(TAG, "Error while downloading and saving file !", e);
-    }`
+    }
+ ```
     
 6. For Printing Image Use below piece of code
 
-`private void doPhotoPrint() {
+```
+private void doPhotoPrint() {
     PrintHelper photoPrinter = new PrintHelper(getActivity());
     photoPrinter.setScaleMode(PrintHelper.SCALE_MODE_FIT);
     Bitmap bitmap = BitmapFactory.decodeResource(getResources(),R.drawable.droids);
     photoPrinter.printBitmap("droids.jpg - test print", bitmap);
-}`
+}
+```
 
 
 
