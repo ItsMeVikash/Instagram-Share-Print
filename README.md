@@ -7,7 +7,7 @@ Tool Used
 
 Android Studio IDE
 
-<a class="github-button" href="hhttps://play.google.com/store/apps/details?id=vikash.kumar.instashareprint" data-size="large" aria-label="Download ntkme/github-buttons on GitHub">View On Google Play</a>
+<a class="github-button" href="https://play.google.com/store/apps/details?id=vikash.kumar.instashareprint" data-size="large" aria-label="Download ntkme/github-buttons on GitHub">Download Apk from PlayStore</a>
 
 Screenshots
 ------------
