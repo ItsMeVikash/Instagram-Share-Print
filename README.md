@@ -14,23 +14,23 @@ Screenshots
 
 1.Main Screen
 
-![alt text](https://github.com/ItsMeVikash/Android/blob/master/src/Screenshot_20190112-005221.jpg)
+![alt text](https://github.com/ItsMeVikash/Instagram-Share-Print/blob/master/Instagram%20Share%20%26%20Print/Screenshot_20190112-005221.jpg)
 
 2.Image Loaded after pasting url
 
-![alt text](https://github.com/ItsMeVikash/Android/blob/master/src/Screenshot_20190112-005241.jpg)
+![alt text](https://github.com/ItsMeVikash/Instagram-Share-Print/blob/master/Instagram%20Share%20%26%20Print/Screenshot_20190112-005241.jpg)
 
 3. Printing Image Screen
 
-![alt text](https://github.com/ItsMeVikash/Android/blob/master/src/Screenshot_20190112-005251.jpg)
+![alt text](https://github.com/ItsMeVikash/Instagram-Share-Print/blob/master/Instagram%20Share%20%26%20Print/Screenshot_20190112-005251.jpg)
 
 4.Video Screen
 
-![alt text](https://github.com/ItsMeVikash/Android/blob/master/src/Screenshot_20190112-005636.jpg)
+![alt text](https://github.com/ItsMeVikash/Instagram-Share-Print/blob/master/Instagram%20Share%20%26%20Print/Screenshot_20190112-005636.jpg)
 
 5. Sharing Content
 
-![alt text](https://github.com/ItsMeVikash/Android/blob/master/src/Screenshot_20190112-005649.jpg)
+![alt text](https://github.com/ItsMeVikash/Instagram-Share-Print/blob/master/Instagram%20Share%20%26%20Print/Screenshot_20190112-005649.jpg)
 
 
 
